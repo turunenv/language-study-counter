@@ -1,5 +1,9 @@
 body, html {
-    background-color: aquamarine;
+    background-color: #9dfae9;
     margin: 0;
     padding: 0;
+}
+
+* {
+    box-sizing: border-box;
 }
